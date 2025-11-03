@@ -1,0 +1,11 @@
+{
+  "name": "saralweb-time-ranges",
+  "version": "1.0.0",
+  "description": "A NodeJS module for merging time ranges with threshold",
+  "main": "timeRanges.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
